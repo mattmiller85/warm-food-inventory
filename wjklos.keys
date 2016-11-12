@@ -1,0 +1,12 @@
+<script src="https://www.gstatic.com/firebasejs/3.6.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBpYuMgwyYfK508bY30HQvufh8I2Sp4-GQ",
+    authDomain: "warm-food-inventory.firebaseapp.com",
+    databaseURL: "https://warm-food-inventory.firebaseio.com",
+    storageBucket: "",
+    messagingSenderId: "631288528625"
+  };
+  firebase.initializeApp(config);
+</script>
